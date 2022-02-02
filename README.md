@@ -14,6 +14,8 @@ django admin. (has to be creatd using command: "python manage.py createsuperuser
 username: bipingowda
 pwd.: godseye
 
-Random Forest Classification Module : Abhishek Jagadish
-Image Processing Module : Jairaj Pisupati
-Django Front and backend : Bipin V Gowda
+1.Random Forest Classification Module : Abhishek Jagadish
+
+2. Image Processing Module : Jairaj Pisupati
+
+3. Django Front and backend : Bipin V Gowda
