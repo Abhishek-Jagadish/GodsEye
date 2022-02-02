@@ -13,3 +13,7 @@ Python 3.7 should be used and the site-packages from the venv should be copy-pas
 django admin. (has to be creatd using command: "python manage.py createsuperuser"
 username: bipingowda
 pwd.: godseye
+
+Random Forest Classification Module : Abhishek Jagadish
+Image Processing Module : Jairaj Pisupati
+Django Front and backend : Bipin V Gowda
